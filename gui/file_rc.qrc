@@ -1,0 +1,14 @@
+<RCC>
+  <qresource prefix="Close_image">
+    <file>close_error.png</file>
+  </qresource>
+  <qresource prefix="Ico">
+    <file>schedule.ico</file>
+  </qresource>
+  <qresource prefix="Logo_image">
+    <file>logo_login.png</file>
+  </qresource>
+  <qresource prefix="Login_image">
+    <file>addressbook_1.png</file>
+  </qresource>
+</RCC>
